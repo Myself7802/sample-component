@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Components</string>
+    <string name="Title">Student Registration</string>
+
+    <!--to toggle the open close button
+     of the navigation drawer-->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
